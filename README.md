@@ -139,7 +139,7 @@ __Activity:__
 O is for Octocat
 ----------------
 
-__Description:__
+__Description:__ Octocats on GitHub use Git to work together on code.
 
 __Illustration:__ INSERT: 8 or so Octocats 
 
