@@ -16,7 +16,7 @@ __Activity:__
 B is for Benoit B Mandelbrot
 ----------------------------
 
-__Description:__ Benoit loved Nature, and took walks on the beach. He thought he could see how long it was. Unfortunately the closer he looked, the longer it took, and the more he inspected the more wobbly it got. 
+__Description:__ Benoit loved Nature, and took walks on the beach. He thought he could see how long it was. Unfortunately the closer he looked, the longer it took, and the more he inspected the more wobbly it got.
 
 __Illustration:__ fractals, duh
 
@@ -26,7 +26,7 @@ __Activity:__ INSERT: Grid of numbers to colour in, numbers represent iteration 
 C is for CERN
 -------------
 
-__Description:__ CERN is a big big place to understand the world at the tiniest levels. They take tiny things and bang them together and see what happens. 
+__Description:__ CERN is a big big place to understand the world at the tiniest levels. They take tiny things and bang them together and see what happens.
 
 __Illustration:__ scene from CERN
 
@@ -48,10 +48,10 @@ E is for Edsger Dijkstra
 
 __Description:__
 
-__Illustration:__ 
+__Illustration:__
 
-__Activity:__ 
-INSERT: Matching up/Drawing lines between ( and ), [ and ], { and }, `if` and `end if`. 
+__Activity:__
+INSERT: Matching up/Drawing lines between ( and ), [ and ], { and }, `if` and `end if`.
 (A little instruction to say "Make the lines simple and clean, Edsger likes things to be neat!"
 
 F is for Fibonacci
@@ -70,7 +70,7 @@ __Description:__
 
 __Illustration:__ Grace Hopper, the bug she found and holding a nanosecond.
 
-__Activity:__ 
+__Activity:__
 
 H is for Hackspace
 ----------------
@@ -84,7 +84,7 @@ __Activity:__ but the book down and go hack something
 
 I is for Internet
 -----------------
-__Description:__ The internet is a series of tubes. 
+__Description:__ The internet is a series of tubes.
 
 __Illustration:__ spacecat and tubes
 
@@ -96,9 +96,9 @@ J is for Jump
 
 __Description:__
 
-__Illustration:__ 
+__Illustration:__
 
-__Activity:__ 
+__Activity:__
 
 K is for Knuth, but Don to his friends.
 ---------------------------------------
@@ -107,14 +107,14 @@ __Description:__ Don loves computers and he loves books too. He wrote a book abo
 
 __Illustration:__ INSERT: Don on a Pipe Organ
 
-__Activity:__ 
+__Activity:__
 
 L is for Logo Turtle
 --------------------
 
 __Description:__
 
-__Illustration:__ 
+__Illustration:__
 
 __Activity:__ INSERT: Solving a maze by the left hand rule / Origami Turtle.
 
@@ -123,7 +123,7 @@ M is for Multiplication
 -----------------------
 __Description:__
 
-__Illustration:__ 
+__Illustration:__
 
 __Activity:__ INSERT: Multiplying numbers by counting grids/Geometric method.
 
@@ -132,18 +132,18 @@ N is for Networks
 
 __Description:__ FIXME
 
-__Illustration:__ 
+__Illustration:__
 
-__Activity:__ 
+__Activity:__
 
-O is for <REMOVED AFTER LEGAL ADVICE>
--------------------------------------
+O is for Open Source
+----------------
 
-__Description:__
+__Description:__ Open source means sharing and working together. Octocats share their code on GitHub.
 
-__Illustration:__ INSERT: 8 or so Generic Animals. Your Corporate Logo Here!
+__Illustration:__ INSERT: 8 or so Octocats
 
-__Activity:__ customise the animals. This one is a Cowboy! This one is an Astronaut! This one is a Nurse! This one is a Teacher! This one is You!
+__Activity:__ customise the octocats. This one is a Cowboy! This one is an Astronaut! This one is a Nurse! This one is a Teacher! This one is You!
 
 P is for Off By One Error
 -------------------------
@@ -151,7 +151,7 @@ __Description:__ No! P is for Punch cards.
 
 __Illustration:__ INSERT: FIXME
 
-__Activity:__ 
+__Activity:__
 
 
 Q is for Queue
@@ -166,7 +166,7 @@ __Activity:__
 R is for Recursion
 ------------------
 __Description:__
-Recursion is breaking down problems into taking the first step, and how to move forwards. 
+Recursion is breaking down problems into taking the first step, and how to move forwards.
 
 __Illustration:__
 
@@ -239,7 +239,7 @@ __Activity:__
 
 Z is for Zero and One
 --------------------
-__Description:__ Computers are powerful because they are simple. They see the world in one and zero, and all numbers and letters can be converted to computers. 
+__Description:__ Computers are powerful because they are simple. They see the world in one and zero, and all numbers and letters can be converted to computers.
 
 __Illustration:__ INSERT: ASCII Table.
 
@@ -262,4 +262,3 @@ Other
 * TSP?
 * P != NP
 * penrose tiles
-
