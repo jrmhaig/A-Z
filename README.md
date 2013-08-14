@@ -136,14 +136,14 @@ __Illustration:__
 
 __Activity:__ 
 
-O is for <REMOVED AFTER LEGAL ADVICE>
--------------------------------------
+O is for Octocat
+----------------
 
 __Description:__
 
-__Illustration:__ INSERT: 8 or so Generic Animals. Your Corporate Logo Here!
+__Illustration:__ INSERT: 8 or so Octocats 
 
-__Activity:__ customise the animals. This one is a Cowboy! This one is an Astronaut! This one is a Nurse! This one is a Teacher! This one is You!
+__Activity:__ customise the octocats. This one is a Cowboy! This one is an Astronaut! This one is a Nurse! This one is a Teacher! This one is You!
 
 P is for Off By One Error
 -------------------------
