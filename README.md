@@ -79,7 +79,7 @@ __Description:__
 
 __Illustration:__ scene from hackspace
 
-__Activity:__ but the book down and go hack something
+__Activity:__ put the book down and go hack something
 
 
 I is for Internet
