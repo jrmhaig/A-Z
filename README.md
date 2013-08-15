@@ -191,11 +191,11 @@ __Activity:__
 
 U is for UNIX™
 --------------
-__Description:__
+__Description:__ UNIX is not just an operating system, it also brought a new, simpler way of thinking with text files and pipelines.
 
 __Illustration:__ INSERT: Raptors.
 
-__Activity:__
+__Activity:__ Colour in the UNIX Designers' Hair. Dennis, Ken and Brian had Beards too!
 
 
 V is for Vannevar Bush
