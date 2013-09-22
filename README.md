@@ -66,7 +66,7 @@ __Activity:__
 G is for Grace Hopper
 ---------------------
 
-__Description:__
+__Description:__ Grace Hopper developed the first compiler for a computer programming language. Once Grace was trying to find out why a particular program had stopped working. She found the reason the program was not working was because a moth had gotten into one of the relays. Since then, we call fixing computer glitches "debugging".
 
 __Illustration:__ Grace Hopper, the bug she found and holding a nanosecond.
 
@@ -75,7 +75,7 @@ __Activity:__
 H is for Hackspace
 ----------------
 
-__Description:__
+__Description:__ A hackspace is a community-operated workspace where people with interests in making stuff can meet, socialise and collaborate. Often they have cool tools and machines that you can make stuff with, like soldering stations, laser cutters and 3D printers. 
 
 __Illustration:__ scene from hackspace
 
@@ -112,7 +112,7 @@ __Activity:__
 L is for Logo Turtle
 --------------------
 
-__Description:__
+__Description:__ Seymour Papert had a dream that computers would be used by everyone to express their ideas and play around with. He created Logo Turtles to show people the way.
 
 __Illustration:__
 
@@ -200,7 +200,7 @@ __Activity:__ Colour in the UNIX Designers' Hair. Dennis, Ken and Brian had Bear
 
 V is for Vannevar Bush
 ----------------------
-__Description:__ FIXME: Memex etc.
+__Description:__ Vannevar Bush imagined a future where we would have easy access to all previous knowledge like scientific research, encyclopedias, books and pictures. All this information would fit in a really small space, like in our desks. When we jumped form article to article, a trail would be left behind. Notes could be made, and the trails and notes shared with others. At first, these desk would need keys and levers but eventually we would get rid of these, and go from electrical signals in our brains/eyes/hands to electrical signals in the desk without having to translate to mechanical movement first.
 
 __Illustration:__
 
