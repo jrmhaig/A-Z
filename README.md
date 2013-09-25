@@ -149,6 +149,8 @@ P is for Off By One Error
 -------------------------
 __Description:__ No! P is for Punch cards.
 
+A punch card is an old way of storing loads of data in a small space. The cards can have holes or notches, and can be sorted by machines according to combinations of present or absent holes.
+
 __Illustration:__ INSERT: FIXME
 
 __Activity:__
@@ -210,7 +212,7 @@ __Activity:__
 W is for Woz
 ------------
 
-__Description:__
+__Description:__ Steve Wozniak co-founded Apple and invented the Apple I and Apple II computers. 
 
 __Illustration:__ Woz on a segway
 
@@ -231,7 +233,7 @@ __Activity:__ INSERT: For each bowls, will Xor or Nand cat eat, or both?
 
 Y is for Yak-shaving
 --------------------
-__Description:__
+__Description:__ Yak Shaving is the last step of a series of steps that occurs when you find something you need to do. Like this one time I had to fix my hovercraft. But the garage where the hovercraft lived was so messy, first I had to tidy it up. But I couldn't tidy it up because there was no light due to a broken lightbulb. And I din't have any spare lightbulbs. I'd go buy a lightbulb except the hovercraft wasn't working. I could borrow one from my neighbour, but he wouldn't give me one unit I returned the red panda costume we'd borrowed. And we couldn't return it because some of the stuffing fell out from the tail and we need to get some yak hair to restuff it. And the next thing you know you're at the zoo shaving some yaks because you needed to fix your hovercraft.
 
 __Illustration:__ A poodle-looking yak being shaved next to a bike shed. Plus a camel and a gnu and Larry in a Hawaiian shirt.
 
