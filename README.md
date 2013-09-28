@@ -185,7 +185,7 @@ __Activity:__ colour in numbers
 
 T is for Turing
 ---------------
-__Description:__
+__Description:__ Alan Turing was an English mathematician, wartime code-breaker and pioneer of computer science. After the war, Turing turned his thoughts to the development of a machine that would logically process information. A Turing machine is a hypothetical device that manipulates symbols on a strip of tape according to a table of rules. Despite its simplicity, a Turing machine can be adapted to simulate the logic of any computer algorithm.
 
 __Illustration:__ INSERT: Turing eating an Icecream in the Park, With a rainbow in the sky.
 
