@@ -36,7 +36,7 @@ __Activity:__ find the Higgs boson
 D is for Difference Engine
 --------------------------
 
-__Description:__ Before we had machine computers we had human computers. When Babbage became tired of all the errors prouced by human computers when making nautical tables, he decided to build a machine that would automate the process. He called it the difference engine.
+__Description:__ Before we had machine computers we had human computers. When Babbage became tired of all the errors produced by human computers when making nautical tables, he decided to build a machine that would automate the process. He called it the difference engine.
 
 __Illustration:__ Lovelace and Babbage
 
