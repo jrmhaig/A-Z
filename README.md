@@ -4,12 +4,12 @@ Code Club's [A-Z] of Code
 An activity/colouring book for kids for indoctrinating them with geekyness. Mostly full of in-jokes and puns.
 
 
-A is for Automata
------------------
+A is for Automaton
+------------------
 
-__Description:__ Automata is a big word but a small idea, a tiny computer that works with pictures and rules.
+__Description:__ Automaton is a big word but a small idea, a tiny computer that works with pictures and rules.
 
-__Illustration:__ INSERT: 1-d Automata.
+__Illustration:__ INSERT: 1-d Automaton.
 
 __Activity:__
 
